@@ -1,6 +1,7 @@
-### Hi there 👋
+<h3 align="center"> Hi there 👋 </h3>
 
-### Robert is a software engineer that focuses on cloud applications. For over thirteen years as a consultant Robert has led custom software development for companies such as SAP, Hyundai, Kia, Orange, Repsol, Endesa, Heineken and many others.
+
+<h4 align="center"> Robert is a software engineer that focuses on cloud applications. For over thirteen years as a consultant Robert has led custom software development for companies such as SAP, Hyundai, Kia, Orange, Repsol, Endesa, Heineken and many others. </h4>
 
 <!--
 **robertpopa/robertpopa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
