@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 </h1>
 
 
-<h4 align="center"> Robert is a software engineer that focuses on cloud applications. For over thirteen years as a consultant Robert has led custom software development for companies such as SAP, Hyundai, Kia, Orange, Repsol, Endesa, Heineken and many others. </h4>
+<h4 align="center"> A Software Engineer with a focus on cloud applications. For over thirteen years as a consultant Robert has led custom software development for companies such as SAP, Hyundai, Kia, Orange, Repsol, Endesa, Heineken and many others. </h4>
 
 <p>&nbsp;</p>
 
