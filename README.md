@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋 </h1>
+<h1 align="center"> Hi, I'm Robert Popa 👋 </h1>
 
 
 <h4 align="center"> A Software Engineer with a focus on cloud applications. For over thirteen years as a consultant Robert has led custom software development for companies such as SAP, Hyundai, Kia, Orange, Repsol, Endesa, Heineken and many others. </h4>
