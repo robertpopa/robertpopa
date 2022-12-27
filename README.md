@@ -1,11 +1,11 @@
 <h1 align="center"> Hi, I'm Robert Popa 👋 </h1>
 
 
-<h4 align="center"> I'm a Java Software Engineer focusing on cloud apps. In my blog I share my knowledge and experiences accumulated over the past thirteen years of working in the IT industry for various clients and having delivered effective solutions worldwide. Remember, you'll be better off with great software TODAY instead of the fantasy of perfect software TOMORROW.. </h4>
+<h4 align="center"> I'm a Java Software Engineer focusing on cloud apps. I share my knowledge and experiences accumulated over the past thirteen years of working in the IT industry for various clients and having delivered effective solutions worldwide. Remember, you'll be better off with great software TODAY instead of the fantasy of perfect software TOMORROW.. </h4>
 
 <p>&nbsp;</p>
 
-- 🌱 https://robertpopa.eu
+- 🌱 Blogging on https://robertpopa.eu
 - 🤝 I'm currently open for freelance work (remote)
 - 📫 How to reach me: robert.popa87@gmail.com
 
