@@ -1,10 +1,11 @@
 <h1 align="center"> Hi, I'm Robert Popa 👋 </h1>
 
 
-<h4 align="center"> A Software Engineer with a focus on cloud applications. For over thirteen years as a consultant Robert has led custom software development for companies such as SAP, Hyundai, Kia, Orange, Repsol, Endesa, Heineken and many others. </h4>
+<h4 align="center"> I'm a Java Software Engineer focusing on cloud apps. In my blog I share my knowledge and experiences accumulated over the past thirteen years of working in the IT industry for various clients and having delivered effective solutions worldwide. Remember, you'll be better off with great software TODAY instead of the fantasy of perfect software TOMORROW.. </h4>
 
 <p>&nbsp;</p>
 
+- 🌱 https://robertpopa.eu
 - 🤝 I'm currently open for freelance work (remote)
 - 📫 How to reach me: robert.popa87@gmail.com
 
@@ -14,7 +15,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/robertpopa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="stefanfeser" height="30" width="30" /></a>
-<a href="https://twitter.com/rovopop" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="stefanfeser" height="30" width="30" /></a>  
+<a href="https://twitter.com/realrobertpopa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="stefanfeser" height="30" width="30" /></a>  
 </p>
 
 <!--
