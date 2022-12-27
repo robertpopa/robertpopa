@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Robert Popa 👋 </h1>
 
 
-<h4 align="center"> I'm a Java Software Engineer focusing on cloud apps. I share my knowledge and experiences accumulated over the past thirteen years of working in the IT industry for various clients and having delivered effective solutions worldwide. Remember, you'll be better off with great software TODAY instead of the fantasy of perfect software TOMORROW.. </h4>
+<h3 align="center"> I'm a Java Software Engineer focusing on cloud apps. I share my knowledge and experiences accumulated over the past thirteen years of working in the IT industry for various clients and having delivered effective solutions worldwide. Remember, you'll be better off with great software TODAY instead of the fantasy of perfect software TOMORROW. </h3>
 
 <p>&nbsp;</p>
 
