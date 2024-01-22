@@ -5,7 +5,7 @@
 
 <p>&nbsp;</p>
 
-- 🌱 Blogging on https://robertpopa.eu
+- 🌱 Blogging on https://robertpopa.dev
 - 🤝 I'm currently open for freelance work (remote)
 - 📫 How to reach me: robert.popa87@gmail.com
 
