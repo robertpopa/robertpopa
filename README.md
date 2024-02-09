@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Robert Popa 👋 </h1>
 
 
-<h4 align="center"> I'm a Java Software Engineer focusing on cloud apps. I share my knowledge and experiences accumulated over 15+ years of working in the IT industry for various clients and having delivered effective solutions worldwide. Remember, you'll be better off with great software TODAY instead of the fantasy of perfect software TOMORROW. </h4>
+<h4 align="center"> 👋 I am a Senior Java Engineer and Consultant with a rich history of 𝟭𝟱+ 𝘆𝗲𝗮𝗿𝘀 in the industry. My passion lies in crafting innovative solutions that drive business success on a global scale. </h4>
 
 <p>&nbsp;</p>
 
