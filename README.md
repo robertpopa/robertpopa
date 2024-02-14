@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Robert Popa 👋 </h1>
 
 
-<h4 align="center"> 👋 I am a Senior Java Engineer and Consultant with a rich history of 𝟭𝟱+ 𝘆𝗲𝗮𝗿𝘀 in the industry. My passion lies in crafting innovative solutions that drive business success on a global scale. </h4>
+<h4 align="center"> 👋 I am a Senior Java Engineer - Contractor - Freelancer with 𝟭𝟱+ 𝘆𝗲𝗮𝗿𝘀 of experience. My passion lies in crafting innovative solutions that drive business success on a global scale. I can work in English, Spanish, and German.</h4>
 
 <p>&nbsp;</p>
 
