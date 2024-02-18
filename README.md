@@ -3,7 +3,7 @@
 
 <h4 align="justify"> 👋 As a Full-stack Java Developer and SAP Consultant, I have 𝟭𝟱+ 𝘆𝗲𝗮𝗿𝘀 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 in designing and implementing digital solutions that drive business success on a global scale. </h4>
 
-<p>I have a strong background in ♨️ Java, Spring, SQL, and JavaScript, as well as SAP technologies such as SAP Portal, SAP BTP, SAPUI5, SAP BPM, and SAP Afaria. 
+<p>I have a strong background in ♨️ Java, Spring, SQL, and JavaScript, as well as SAP technologies such as SAP Portal, WebDynpro Java, SAPUI5, SAP BPM, and SAP Afaria. 
   
 🚀 I have worked across diverse industries, such as automotive, energy, oil & gas, and banking, delivering high-quality products and services that meet customer needs and expectations. 
 
