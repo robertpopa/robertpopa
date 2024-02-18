@@ -15,7 +15,7 @@
 <p>&nbsp;</p>
 
 - 🌱 Blogging on https://robertpopa.dev
-- 🤝 I'm currently open for freelance work (remote)
+- 🤝 I'm currently open for freelance work (remote or hybrid)
 - 📫 How to reach me: robert.popa87@gmail.com
 
 <p>&nbsp;</p>
