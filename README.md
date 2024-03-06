@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Robert Popa 👋 </h1>
 
 
-<h4 align="justify"> 👋 As a Full-stack Java Developer and SAP Certified Consultant, I have 𝟭𝟱+ 𝘆𝗲𝗮𝗿𝘀 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 in designing and implementing digital solutions that drive business success on a global scale. </h4>
+<h4 align="justify"> 👋 As a Senior Java Engineer, I have 𝟭𝟱+ 𝘆𝗲𝗮𝗿𝘀 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 in designing and implementing digital solutions that drive business success on a global scale. </h4>
 
 <p>I have a strong background in ♨️ Java, Spring, Spring Boot, SQL, and JavaScript, as well as SAP technologies such as SAP Portal, WebDynpro Java, SAPUI5, and SAP BPM. 
   
