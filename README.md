@@ -1,15 +1,19 @@
 <h1 align="center"> Hi, I'm Robert Popa 👋 </h1>
 
 
-<h4 align="justify"> 👋 As a Senior Java Engineer, I have 𝟭𝟱+ 𝘆𝗲𝗮𝗿𝘀 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 in designing and implementing digital solutions that drive business success on a global scale. </h4>
+<h4 align="justify"> I’m a Senior Full-Stack Java Developer with 16+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 building scalable, secure, and high-performance web applications. </h4>
 
-<p>I have a strong background in ♨️ Java, Hibernate, Spring Boot, Microservices, Typescript, JavaScript, and BPM. 
+<p>My strength lies in backend development using Java, Spring Boot, and Hibernate, with production-grade experience on AWS and DevOps integration. I also have frontend experience with Angular and React, enabling me to contribute across the entire stack when needed. 
   
-🚀 I have worked across diverse industries, such as automotive, energy, oil & gas, and banking, delivering high-quality products and services that meet customer needs and expectations. 
+I’ve worked on complex systems in industries like automotive, finance, energy, oil & gas, collaborating with distributed teams and delivering high-quality code on time.
 
-🔰 I am also SAP certified and ITIL certified, demonstrating my proficiency and professionalism in the field. 
+I am AWS, SAP and ITIL certified, demonstrating my proficiency and professionalism in the field. 
 
-🌐 I am multilingual, fluent in English, Spanish, and German (medium competency), and enjoy working with cross-cultural teams and stakeholders. I am passionate about creating innovative solutions that make a positive impact on the world.
+Also I'm fluent in English, Spanish, and German (basic competency), and enjoy working with cross-cultural teams and stakeholders.
+
+I’m currently open to freelance or contract opportunities—especially with startups or tech-driven teams that value clean code and long-term thinking.
+
+Let’s connect if you need help shipping quality software that scales.
 </p>
 
 <p>&nbsp;</p>
