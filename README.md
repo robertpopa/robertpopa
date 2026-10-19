@@ -20,8 +20,7 @@ Let’s connect if you need help shipping quality software that scales.
 
 - 🌱 Blogging on https://robertpopa.dev
 - 🤝 I'm currently open for freelance work (remote or hybrid)
-- 📫 How to reach me: contact@robertpopa.dev
-
+- 📫 How to reach me: robert.popa87@gmail.com
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
